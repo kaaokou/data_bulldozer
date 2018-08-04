@@ -28,8 +28,8 @@ class TbSpider(scrapy.Spider):
 
 	def parse_detail(self, response):
 		print(response)
-		with open("taobao_detail.html", "wb") as f:
-			f.write(response.body.decode("utf-8"))
+		with open("taobao_detail.html", "w") as f:
+			f.write(response.body.decode('gbk').encode('utf-8'))
 
 
 
