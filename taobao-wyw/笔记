@@ -1,0 +1,40 @@
+https://rate.tmall.com/list_detail_rate.htm?callback=jsonp1717&currentPage=2&order=3&sellerId=2939922051&itemId=569374605524
+
+
+currentPage 评论页数
+
+itemId在列表页的//div[@class="product  "]/@data-id
+sellerId在列表页//div[@class="product"]//div[@class="productImg-wrap"]/a/@href
+	xpath取出的一个url链接：//detail.tmall.com/item.htm?spm=a220m.1000858.1000725.1.84de318d4lfndV&id=520940005154&skuId=4611686539367393058&areaId=440300&user_id=1910146537&cat_id=55116014&is_b=1&rn=8706da0410c2ff917725095d9275e7c8
+	使用正则取出user_id=520940005154
+
+返回的json数据中有lastPage  表示评论的总页数
+
+
+
+
+首先：https://list.tmall.com/ajax/getAllBrotherCats.htm?cat=54444001
+    返回水果分类下面的所有的分类比如：芒果、菠萝等
+    少了一个分类       其他水果：https://list.tmall.com/search_product.htm?cat=54444001
+
+
+通过分类以及翻页查找所有的列表页数据：
+水果名字：
+水果价格：
+商品店铺：
+月成交量：
+评论数量：
+itemId：
+sellerId：
+
+
+
+通过itemId和sellerId和url进行拼接   可以查询到该水果下面的所有评论
+
+
+数据保存到mysql
+
+
+
+
+
