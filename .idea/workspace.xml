@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="379c1ae7-efbe-4aa0-a9f5-0805bb2bcb93" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/tb_spider/tb_spider/data/taobao_detail.html" afterPath="$PROJECT_DIR$/tb_spider/tb_spider/data/taobao_detail.html" />
-      <change beforePath="$PROJECT_DIR$/tb_spider/tb_spider/spiders/tb_spider.py" afterPath="$PROJECT_DIR$/tb_spider/tb_spider/spiders/tb_spider.py" />
-      <change beforePath="$PROJECT_DIR$/tb_spider/tb_spider/spiders/tb_spider_chrome.py" afterPath="$PROJECT_DIR$/tb_spider/tb_spider/spiders/tb_spider_chrome.py" />
+      <change beforePath="$PROJECT_DIR$/JD/JD/spiders/jd_redis.py" afterPath="$PROJECT_DIR$/JD/JD/spiders/jd_redis.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,197 +15,13 @@
     <SUITE FILE_PATH="coverage/data_bulldozer$tianmao.coverage" NAME="tianmao Coverage Results" MODIFIED="1533356283874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="tianmao.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/tianmao.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="jd_redis.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JD/JD/spiders/jd_redis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="258" column="32" lean-forward="true" selection-start-line="258" selection-start-column="32" selection-end-line="258" selection-end-column="32" />
-              <folding>
-                <element signature="e#40#51#0" expanded="true" />
-                <element signature="e#209#3750#0" expanded="false" />
-                <element signature="e#5178#5238#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/items.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="102">
+              <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tianmao_spider.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/tianmao_spider.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taobao1/taobao1/items.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="20" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="none.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/none.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="227" lean-forward="false" selection-start-line="0" selection-start-column="227" selection-end-line="0" selection-end-column="227" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="com1taobao.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/com1taobao.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22252" lean-forward="false" selection-start-line="2" selection-start-column="22252" selection-end-line="2" selection-end-column="22252" />
-              <folding>
-                <element signature="e#1122#1129#0" expanded="true" />
-                <element signature="e#1129#1136#0" expanded="true" />
-                <element signature="e#2186#2193#0" expanded="true" />
-                <element signature="e#2193#2200#0" expanded="true" />
-                <element signature="e#3269#3276#0" expanded="true" />
-                <element signature="e#3276#3283#0" expanded="true" />
-                <element signature="e#4300#4307#0" expanded="true" />
-                <element signature="e#4307#4314#0" expanded="true" />
-                <element signature="e#5502#5509#0" expanded="true" />
-                <element signature="e#5509#5516#0" expanded="true" />
-                <element signature="e#7599#7606#0" expanded="true" />
-                <element signature="e#7606#7613#0" expanded="true" />
-                <element signature="e#9036#9043#0" expanded="true" />
-                <element signature="e#9043#9050#0" expanded="true" />
-                <element signature="e#10079#10086#0" expanded="true" />
-                <element signature="e#10086#10093#0" expanded="true" />
-                <element signature="e#11081#11088#0" expanded="true" />
-                <element signature="e#11088#11095#0" expanded="true" />
-                <element signature="e#12133#12140#0" expanded="true" />
-                <element signature="e#12140#12147#0" expanded="true" />
-                <element signature="e#14520#14527#0" expanded="true" />
-                <element signature="e#14527#14534#0" expanded="true" />
-                <element signature="e#15481#15488#0" expanded="true" />
-                <element signature="e#15488#15495#0" expanded="true" />
-                <element signature="e#16572#16579#0" expanded="true" />
-                <element signature="e#16579#16586#0" expanded="true" />
-                <element signature="e#17559#17565#0" expanded="true" />
-                <element signature="e#17569#17575#0" expanded="true" />
-                <element signature="e#17591#17597#0" expanded="true" />
-                <element signature="e#17601#17607#0" expanded="true" />
-                <element signature="e#17608#17614#0" expanded="true" />
-                <element signature="e#17618#17624#0" expanded="true" />
-                <element signature="e#18848#18855#0" expanded="true" />
-                <element signature="e#18855#18862#0" expanded="true" />
-                <element signature="e#19983#19990#0" expanded="true" />
-                <element signature="e#19990#19997#0" expanded="true" />
-                <element signature="e#20970#20977#0" expanded="true" />
-                <element signature="e#20977#20984#0" expanded="true" />
-                <element signature="e#21969#21976#0" expanded="true" />
-                <element signature="e#21976#21983#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="com2taobao.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/com2taobao.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="2" column="727" lean-forward="true" selection-start-line="2" selection-start-column="727" selection-end-line="2" selection-end-column="727" />
-              <folding>
-                <element signature="e#1122#1129#0" expanded="true" />
-                <element signature="e#1129#1136#0" expanded="true" />
-                <element signature="e#2186#2193#0" expanded="true" />
-                <element signature="e#2193#2200#0" expanded="true" />
-                <element signature="e#3269#3276#0" expanded="true" />
-                <element signature="e#3276#3283#0" expanded="true" />
-                <element signature="e#4300#4307#0" expanded="true" />
-                <element signature="e#4307#4314#0" expanded="true" />
-                <element signature="e#5502#5509#0" expanded="true" />
-                <element signature="e#5509#5516#0" expanded="true" />
-                <element signature="e#7599#7606#0" expanded="true" />
-                <element signature="e#7606#7613#0" expanded="true" />
-                <element signature="e#9036#9043#0" expanded="true" />
-                <element signature="e#9043#9050#0" expanded="true" />
-                <element signature="e#10079#10086#0" expanded="true" />
-                <element signature="e#10086#10093#0" expanded="true" />
-                <element signature="e#11081#11088#0" expanded="true" />
-                <element signature="e#11088#11095#0" expanded="true" />
-                <element signature="e#12133#12140#0" expanded="true" />
-                <element signature="e#12140#12147#0" expanded="true" />
-                <element signature="e#14520#14527#0" expanded="true" />
-                <element signature="e#14527#14534#0" expanded="true" />
-                <element signature="e#15481#15488#0" expanded="true" />
-                <element signature="e#15488#15495#0" expanded="true" />
-                <element signature="e#16572#16579#0" expanded="true" />
-                <element signature="e#16579#16586#0" expanded="true" />
-                <element signature="e#17559#17565#0" expanded="true" />
-                <element signature="e#17569#17575#0" expanded="true" />
-                <element signature="e#17591#17597#0" expanded="true" />
-                <element signature="e#17601#17607#0" expanded="true" />
-                <element signature="e#17608#17614#0" expanded="true" />
-                <element signature="e#17618#17624#0" expanded="true" />
-                <element signature="e#18848#18855#0" expanded="true" />
-                <element signature="e#18855#18862#0" expanded="true" />
-                <element signature="e#19983#19990#0" expanded="true" />
-                <element signature="e#19990#19997#0" expanded="true" />
-                <element signature="e#20970#20977#0" expanded="true" />
-                <element signature="e#20977#20984#0" expanded="true" />
-                <element signature="e#21969#21976#0" expanded="true" />
-                <element signature="e#21976#21983#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="com3taobao.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/com3taobao.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="2" column="270" lean-forward="false" selection-start-line="2" selection-start-column="270" selection-end-line="2" selection-end-column="270" />
-              <folding>
-                <element signature="e#1002#1009#0" expanded="true" />
-                <element signature="e#1009#1016#0" expanded="true" />
-                <element signature="e#2003#2010#0" expanded="true" />
-                <element signature="e#2010#2017#0" expanded="true" />
-                <element signature="e#4015#4022#0" expanded="true" />
-                <element signature="e#4022#4029#0" expanded="true" />
-                <element signature="e#5058#5065#0" expanded="true" />
-                <element signature="e#5065#5072#0" expanded="true" />
-                <element signature="e#6009#6016#0" expanded="true" />
-                <element signature="e#6016#6023#0" expanded="true" />
-                <element signature="e#6935#6942#0" expanded="true" />
-                <element signature="e#6942#6949#0" expanded="true" />
-                <element signature="e#8037#8044#0" expanded="true" />
-                <element signature="e#8044#8051#0" expanded="true" />
-                <element signature="e#9292#9299#0" expanded="true" />
-                <element signature="e#9299#9306#0" expanded="true" />
-                <element signature="e#10292#10299#0" expanded="true" />
-                <element signature="e#10299#10306#0" expanded="true" />
-                <element signature="e#13374#13381#0" expanded="true" />
-                <element signature="e#13381#13388#0" expanded="true" />
-                <element signature="e#14224#14232#0" expanded="true" />
-                <element signature="e#17200#17207#0" expanded="true" />
-                <element signature="e#17207#17214#0" expanded="true" />
-                <element signature="e#18177#18184#0" expanded="true" />
-                <element signature="e#18184#18191#0" expanded="true" />
-                <element signature="e#19232#19239#0" expanded="true" />
-                <element signature="e#19239#19246#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -239,6 +53,7 @@
         <option value="$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/tianmao_spider.py" />
         <option value="$PROJECT_DIR$/TianMao_Z/TianMao_Z/items.py" />
         <option value="$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/tianmao.py" />
+        <option value="$PROJECT_DIR$/JD/JD/spiders/jd_redis.py" />
       </list>
     </option>
   </component>
@@ -292,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -357,7 +173,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -427,24 +242,24 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.392022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20495185" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23990306" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20495185" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24394184" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39889959" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -459,6 +274,184 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/tianmao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3791">
+          <caret line="258" column="32" lean-forward="false" selection-start-line="258" selection-start-column="32" selection-end-line="258" selection-end-column="32" />
+          <folding>
+            <element signature="e#40#51#0" expanded="false" />
+            <element signature="e#209#3750#0" expanded="false" />
+            <element signature="e#5178#5238#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao1/taobao1/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="20" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/tianmao_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/none.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="227" lean-forward="false" selection-start-line="0" selection-start-column="227" selection-end-line="0" selection-end-column="227" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/com1taobao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="2" column="22252" lean-forward="false" selection-start-line="2" selection-start-column="22252" selection-end-line="2" selection-end-column="22252" />
+          <folding>
+            <element signature="e#1122#1129#0" expanded="false" />
+            <element signature="e#1129#1136#0" expanded="false" />
+            <element signature="e#2186#2193#0" expanded="false" />
+            <element signature="e#2193#2200#0" expanded="false" />
+            <element signature="e#3269#3276#0" expanded="false" />
+            <element signature="e#3276#3283#0" expanded="false" />
+            <element signature="e#4300#4307#0" expanded="false" />
+            <element signature="e#4307#4314#0" expanded="false" />
+            <element signature="e#5502#5509#0" expanded="false" />
+            <element signature="e#5509#5516#0" expanded="false" />
+            <element signature="e#7599#7606#0" expanded="false" />
+            <element signature="e#7606#7613#0" expanded="false" />
+            <element signature="e#9036#9043#0" expanded="false" />
+            <element signature="e#9043#9050#0" expanded="false" />
+            <element signature="e#10079#10086#0" expanded="false" />
+            <element signature="e#10086#10093#0" expanded="false" />
+            <element signature="e#11081#11088#0" expanded="false" />
+            <element signature="e#11088#11095#0" expanded="false" />
+            <element signature="e#12133#12140#0" expanded="false" />
+            <element signature="e#12140#12147#0" expanded="false" />
+            <element signature="e#14520#14527#0" expanded="false" />
+            <element signature="e#14527#14534#0" expanded="false" />
+            <element signature="e#15481#15488#0" expanded="false" />
+            <element signature="e#15488#15495#0" expanded="false" />
+            <element signature="e#16572#16579#0" expanded="false" />
+            <element signature="e#16579#16586#0" expanded="false" />
+            <element signature="e#17559#17565#0" expanded="false" />
+            <element signature="e#17569#17575#0" expanded="false" />
+            <element signature="e#17591#17597#0" expanded="false" />
+            <element signature="e#17601#17607#0" expanded="false" />
+            <element signature="e#17608#17614#0" expanded="false" />
+            <element signature="e#17618#17624#0" expanded="false" />
+            <element signature="e#18848#18855#0" expanded="false" />
+            <element signature="e#18855#18862#0" expanded="false" />
+            <element signature="e#19983#19990#0" expanded="false" />
+            <element signature="e#19990#19997#0" expanded="false" />
+            <element signature="e#20970#20977#0" expanded="false" />
+            <element signature="e#20977#20984#0" expanded="false" />
+            <element signature="e#21969#21976#0" expanded="false" />
+            <element signature="e#21976#21983#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/com2taobao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="727" lean-forward="true" selection-start-line="2" selection-start-column="727" selection-end-line="2" selection-end-column="727" />
+          <folding>
+            <element signature="e#1122#1129#0" expanded="false" />
+            <element signature="e#1129#1136#0" expanded="false" />
+            <element signature="e#2186#2193#0" expanded="false" />
+            <element signature="e#2193#2200#0" expanded="false" />
+            <element signature="e#3269#3276#0" expanded="false" />
+            <element signature="e#3276#3283#0" expanded="false" />
+            <element signature="e#4300#4307#0" expanded="false" />
+            <element signature="e#4307#4314#0" expanded="false" />
+            <element signature="e#5502#5509#0" expanded="false" />
+            <element signature="e#5509#5516#0" expanded="false" />
+            <element signature="e#7599#7606#0" expanded="false" />
+            <element signature="e#7606#7613#0" expanded="false" />
+            <element signature="e#9036#9043#0" expanded="false" />
+            <element signature="e#9043#9050#0" expanded="false" />
+            <element signature="e#10079#10086#0" expanded="false" />
+            <element signature="e#10086#10093#0" expanded="false" />
+            <element signature="e#11081#11088#0" expanded="false" />
+            <element signature="e#11088#11095#0" expanded="false" />
+            <element signature="e#12133#12140#0" expanded="false" />
+            <element signature="e#12140#12147#0" expanded="false" />
+            <element signature="e#14520#14527#0" expanded="false" />
+            <element signature="e#14527#14534#0" expanded="false" />
+            <element signature="e#15481#15488#0" expanded="false" />
+            <element signature="e#15488#15495#0" expanded="false" />
+            <element signature="e#16572#16579#0" expanded="false" />
+            <element signature="e#16579#16586#0" expanded="false" />
+            <element signature="e#17559#17565#0" expanded="false" />
+            <element signature="e#17569#17575#0" expanded="false" />
+            <element signature="e#17591#17597#0" expanded="false" />
+            <element signature="e#17601#17607#0" expanded="false" />
+            <element signature="e#17608#17614#0" expanded="false" />
+            <element signature="e#17618#17624#0" expanded="false" />
+            <element signature="e#18848#18855#0" expanded="false" />
+            <element signature="e#18855#18862#0" expanded="false" />
+            <element signature="e#19983#19990#0" expanded="false" />
+            <element signature="e#19990#19997#0" expanded="false" />
+            <element signature="e#20970#20977#0" expanded="false" />
+            <element signature="e#20977#20984#0" expanded="false" />
+            <element signature="e#21969#21976#0" expanded="false" />
+            <element signature="e#21976#21983#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/com3taobao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="270" lean-forward="false" selection-start-line="2" selection-start-column="270" selection-end-line="2" selection-end-column="270" />
+          <folding>
+            <element signature="e#1002#1009#0" expanded="false" />
+            <element signature="e#1009#1016#0" expanded="false" />
+            <element signature="e#2003#2010#0" expanded="false" />
+            <element signature="e#2010#2017#0" expanded="false" />
+            <element signature="e#4015#4022#0" expanded="false" />
+            <element signature="e#4022#4029#0" expanded="false" />
+            <element signature="e#5058#5065#0" expanded="false" />
+            <element signature="e#5065#5072#0" expanded="false" />
+            <element signature="e#6009#6016#0" expanded="false" />
+            <element signature="e#6016#6023#0" expanded="false" />
+            <element signature="e#6935#6942#0" expanded="false" />
+            <element signature="e#6942#6949#0" expanded="false" />
+            <element signature="e#8037#8044#0" expanded="false" />
+            <element signature="e#8044#8051#0" expanded="false" />
+            <element signature="e#9292#9299#0" expanded="false" />
+            <element signature="e#9299#9306#0" expanded="false" />
+            <element signature="e#10292#10299#0" expanded="false" />
+            <element signature="e#10299#10306#0" expanded="false" />
+            <element signature="e#13374#13381#0" expanded="false" />
+            <element signature="e#13381#13388#0" expanded="false" />
+            <element signature="e#14224#14232#0" expanded="false" />
+            <element signature="e#17200#17207#0" expanded="false" />
+            <element signature="e#17207#17214#0" expanded="false" />
+            <element signature="e#18177#18184#0" expanded="false" />
+            <element signature="e#18184#18191#0" expanded="false" />
+            <element signature="e#19232#19239#0" expanded="false" />
+            <element signature="e#19239#19246#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tb_spider/tb_spider/spiders/tb_spider_chrome.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="613">
@@ -471,9 +464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-218">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1533282973190" expanded="true" signature="329012:329613" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -481,62 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1004">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#24906#24913#0" expanded="false" />
-            <element signature="e#24920#24927#0" expanded="false" />
-            <element signature="e#25800#25806#0" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#dd#0;n#dl#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#dd#0;n#dl#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#dd#0;n#dl#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#dd#0;n#dl#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#dd#0;n#dl#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#dd#0;n#dl#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#s#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#s#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#s#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#s#0;n#a#3;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#59043#59049#0" expanded="false" />
-            <element signature="e#59209#59215#0" expanded="false" />
-            <element signature="e#59375#59381#0" expanded="false" />
-            <element signature="e#59545#59551#0" expanded="false" />
-            <element signature="e#59711#59717#0" expanded="false" />
-            <element signature="e#59897#59903#0" expanded="false" />
-            <element signature="e#60039#60045#0" expanded="false" />
-            <element signature="e#60207#60213#0" expanded="false" />
-            <element signature="e#60372#60378#0" expanded="false" />
-            <element signature="e#60537#60543#0" expanded="false" />
-            <element signature="e#60704#60710#0" expanded="false" />
-            <element signature="e#60869#60875#0" expanded="false" />
-            <element signature="e#61266#61272#0" expanded="false" />
-            <element signature="e#61280#61286#0" expanded="false" />
-            <element signature="e#61294#61300#0" expanded="false" />
-            <element signature="e#61308#61314#0" expanded="false" />
-            <element signature="e#61322#61328#0" expanded="false" />
-            <element signature="e#61336#61342#0" expanded="false" />
-            <element signature="e#61746#61752#0" expanded="false" />
-            <element signature="e#61763#61769#0" expanded="false" />
-            <element signature="e#61778#61784#0" expanded="false" />
-            <element signature="e#61789#61795#0" expanded="false" />
-            <element signature="e#61803#61809#0" expanded="false" />
-            <element signature="e#61817#61823#0" expanded="false" />
-            <element signature="e#61996#62002#0" expanded="false" />
-            <element signature="e#62163#62169#0" expanded="false" />
-            <element signature="e#62330#62336#0" expanded="false" />
-            <element signature="e#62496#62502#0" expanded="false" />
-            <element signature="e#62660#62666#0" expanded="false" />
-            <element signature="e#62824#62830#0" expanded="false" />
-            <element signature="e#62987#62993#0" expanded="false" />
-            <element signature="e#63152#63158#0" expanded="false" />
-            <element signature="e#63320#63326#0" expanded="false" />
-            <element signature="e#63490#63496#0" expanded="false" />
-            <element signature="e#63656#63662#0" expanded="false" />
-            <element signature="e#63824#63830#0" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#7;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#textarea#0;n#div#2;n#div#7;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#div#7;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -552,7 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-131">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -560,7 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -568,7 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -576,7 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -584,7 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-614">
           <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -592,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6565">
           <caret line="443" column="33" lean-forward="true" selection-start-line="443" selection-start-column="33" selection-end-line="443" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -600,7 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7582">
           <caret line="403" column="12" lean-forward="true" selection-start-line="403" selection-start-column="12" selection-end-line="403" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -608,7 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7905">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -616,7 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3525">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -624,12 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1533299302030" expanded="true" signature="6223:6341" ph="{...}" />
-            <marker date="1533299302030" expanded="true" signature="6525:6643" ph="{...}" />
-            <marker date="1533299302030" expanded="true" signature="131755:131767" ph="..." />
-            <marker date="1533299302030" expanded="true" signature="132367:132379" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -637,27 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-14063">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#src#0;n#img#0;n#div#0;n#a#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#a#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#a#1;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#src#0;n#img#0;n#div#0;n#a#1;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#a#1;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#a#2;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#src#0;n#img#0;n#div#0;n#a#2;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#a#2;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#src#0;n#img#0;n#div#0;n#a#0;n#div#1;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#a#0;n#div#1;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#a#1;n#div#1;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#src#0;n#img#0;n#div#0;n#a#1;n#div#1;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#a#1;n#div#1;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#1;n#div#1;n#div#1;n#a#1;n#div#1;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#a#2;n#div#1;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#src#0;n#img#0;n#div#0;n#a#2;n#div#1;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#a#2;n#div#1;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -665,7 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="571">
           <caret line="70" column="37" lean-forward="false" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,104 +570,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-85">
           <caret line="93" column="36" lean-forward="false" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/com2taobao.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="2" column="727" lean-forward="true" selection-start-line="2" selection-start-column="727" selection-end-line="2" selection-end-column="727" />
+          <caret line="2" column="727" lean-forward="false" selection-start-line="2" selection-start-column="727" selection-end-line="2" selection-end-column="727" />
           <folding>
-            <element signature="e#1122#1129#0" expanded="true" />
-            <element signature="e#1129#1136#0" expanded="true" />
-            <element signature="e#2186#2193#0" expanded="true" />
-            <element signature="e#2193#2200#0" expanded="true" />
-            <element signature="e#3269#3276#0" expanded="true" />
-            <element signature="e#3276#3283#0" expanded="true" />
-            <element signature="e#4300#4307#0" expanded="true" />
-            <element signature="e#4307#4314#0" expanded="true" />
-            <element signature="e#5502#5509#0" expanded="true" />
-            <element signature="e#5509#5516#0" expanded="true" />
-            <element signature="e#7599#7606#0" expanded="true" />
-            <element signature="e#7606#7613#0" expanded="true" />
-            <element signature="e#9036#9043#0" expanded="true" />
-            <element signature="e#9043#9050#0" expanded="true" />
-            <element signature="e#10079#10086#0" expanded="true" />
-            <element signature="e#10086#10093#0" expanded="true" />
-            <element signature="e#11081#11088#0" expanded="true" />
-            <element signature="e#11088#11095#0" expanded="true" />
-            <element signature="e#12133#12140#0" expanded="true" />
-            <element signature="e#12140#12147#0" expanded="true" />
-            <element signature="e#14520#14527#0" expanded="true" />
-            <element signature="e#14527#14534#0" expanded="true" />
-            <element signature="e#15481#15488#0" expanded="true" />
-            <element signature="e#15488#15495#0" expanded="true" />
-            <element signature="e#16572#16579#0" expanded="true" />
-            <element signature="e#16579#16586#0" expanded="true" />
-            <element signature="e#17559#17565#0" expanded="true" />
-            <element signature="e#17569#17575#0" expanded="true" />
-            <element signature="e#17591#17597#0" expanded="true" />
-            <element signature="e#17601#17607#0" expanded="true" />
-            <element signature="e#17608#17614#0" expanded="true" />
-            <element signature="e#17618#17624#0" expanded="true" />
-            <element signature="e#18848#18855#0" expanded="true" />
-            <element signature="e#18855#18862#0" expanded="true" />
-            <element signature="e#19983#19990#0" expanded="true" />
-            <element signature="e#19990#19997#0" expanded="true" />
-            <element signature="e#20970#20977#0" expanded="true" />
-            <element signature="e#20977#20984#0" expanded="true" />
-            <element signature="e#21969#21976#0" expanded="true" />
-            <element signature="e#21976#21983#0" expanded="true" />
+            <element signature="e#1122#1129#0" expanded="false" />
+            <element signature="e#1129#1136#0" expanded="false" />
+            <element signature="e#2186#2193#0" expanded="false" />
+            <element signature="e#2193#2200#0" expanded="false" />
+            <element signature="e#3269#3276#0" expanded="false" />
+            <element signature="e#3276#3283#0" expanded="false" />
+            <element signature="e#4300#4307#0" expanded="false" />
+            <element signature="e#4307#4314#0" expanded="false" />
+            <element signature="e#5502#5509#0" expanded="false" />
+            <element signature="e#5509#5516#0" expanded="false" />
+            <element signature="e#7599#7606#0" expanded="false" />
+            <element signature="e#7606#7613#0" expanded="false" />
+            <element signature="e#9036#9043#0" expanded="false" />
+            <element signature="e#9043#9050#0" expanded="false" />
+            <element signature="e#10079#10086#0" expanded="false" />
+            <element signature="e#10086#10093#0" expanded="false" />
+            <element signature="e#11081#11088#0" expanded="false" />
+            <element signature="e#11088#11095#0" expanded="false" />
+            <element signature="e#12133#12140#0" expanded="false" />
+            <element signature="e#12140#12147#0" expanded="false" />
+            <element signature="e#14520#14527#0" expanded="false" />
+            <element signature="e#14527#14534#0" expanded="false" />
+            <element signature="e#15481#15488#0" expanded="false" />
+            <element signature="e#15488#15495#0" expanded="false" />
+            <element signature="e#16572#16579#0" expanded="false" />
+            <element signature="e#16579#16586#0" expanded="false" />
+            <element signature="e#17559#17565#0" expanded="false" />
+            <element signature="e#17569#17575#0" expanded="false" />
+            <element signature="e#17591#17597#0" expanded="false" />
+            <element signature="e#17601#17607#0" expanded="false" />
+            <element signature="e#17608#17614#0" expanded="false" />
+            <element signature="e#17618#17624#0" expanded="false" />
+            <element signature="e#18848#18855#0" expanded="false" />
+            <element signature="e#18855#18862#0" expanded="false" />
+            <element signature="e#19983#19990#0" expanded="false" />
+            <element signature="e#19990#19997#0" expanded="false" />
+            <element signature="e#20970#20977#0" expanded="false" />
+            <element signature="e#20977#20984#0" expanded="false" />
+            <element signature="e#21969#21976#0" expanded="false" />
+            <element signature="e#21976#21983#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/com1taobao.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="4199">
           <caret line="2" column="22252" lean-forward="false" selection-start-line="2" selection-start-column="22252" selection-end-line="2" selection-end-column="22252" />
           <folding>
-            <element signature="e#1122#1129#0" expanded="true" />
-            <element signature="e#1129#1136#0" expanded="true" />
-            <element signature="e#2186#2193#0" expanded="true" />
-            <element signature="e#2193#2200#0" expanded="true" />
-            <element signature="e#3269#3276#0" expanded="true" />
-            <element signature="e#3276#3283#0" expanded="true" />
-            <element signature="e#4300#4307#0" expanded="true" />
-            <element signature="e#4307#4314#0" expanded="true" />
-            <element signature="e#5502#5509#0" expanded="true" />
-            <element signature="e#5509#5516#0" expanded="true" />
-            <element signature="e#7599#7606#0" expanded="true" />
-            <element signature="e#7606#7613#0" expanded="true" />
-            <element signature="e#9036#9043#0" expanded="true" />
-            <element signature="e#9043#9050#0" expanded="true" />
-            <element signature="e#10079#10086#0" expanded="true" />
-            <element signature="e#10086#10093#0" expanded="true" />
-            <element signature="e#11081#11088#0" expanded="true" />
-            <element signature="e#11088#11095#0" expanded="true" />
-            <element signature="e#12133#12140#0" expanded="true" />
-            <element signature="e#12140#12147#0" expanded="true" />
-            <element signature="e#14520#14527#0" expanded="true" />
-            <element signature="e#14527#14534#0" expanded="true" />
-            <element signature="e#15481#15488#0" expanded="true" />
-            <element signature="e#15488#15495#0" expanded="true" />
-            <element signature="e#16572#16579#0" expanded="true" />
-            <element signature="e#16579#16586#0" expanded="true" />
-            <element signature="e#17559#17565#0" expanded="true" />
-            <element signature="e#17569#17575#0" expanded="true" />
-            <element signature="e#17591#17597#0" expanded="true" />
-            <element signature="e#17601#17607#0" expanded="true" />
-            <element signature="e#17608#17614#0" expanded="true" />
-            <element signature="e#17618#17624#0" expanded="true" />
-            <element signature="e#18848#18855#0" expanded="true" />
-            <element signature="e#18855#18862#0" expanded="true" />
-            <element signature="e#19983#19990#0" expanded="true" />
-            <element signature="e#19990#19997#0" expanded="true" />
-            <element signature="e#20970#20977#0" expanded="true" />
-            <element signature="e#20977#20984#0" expanded="true" />
-            <element signature="e#21969#21976#0" expanded="true" />
-            <element signature="e#21976#21983#0" expanded="true" />
+            <element signature="e#1122#1129#0" expanded="false" />
+            <element signature="e#1129#1136#0" expanded="false" />
+            <element signature="e#2186#2193#0" expanded="false" />
+            <element signature="e#2193#2200#0" expanded="false" />
+            <element signature="e#3269#3276#0" expanded="false" />
+            <element signature="e#3276#3283#0" expanded="false" />
+            <element signature="e#4300#4307#0" expanded="false" />
+            <element signature="e#4307#4314#0" expanded="false" />
+            <element signature="e#5502#5509#0" expanded="false" />
+            <element signature="e#5509#5516#0" expanded="false" />
+            <element signature="e#7599#7606#0" expanded="false" />
+            <element signature="e#7606#7613#0" expanded="false" />
+            <element signature="e#9036#9043#0" expanded="false" />
+            <element signature="e#9043#9050#0" expanded="false" />
+            <element signature="e#10079#10086#0" expanded="false" />
+            <element signature="e#10086#10093#0" expanded="false" />
+            <element signature="e#11081#11088#0" expanded="false" />
+            <element signature="e#11088#11095#0" expanded="false" />
+            <element signature="e#12133#12140#0" expanded="false" />
+            <element signature="e#12140#12147#0" expanded="false" />
+            <element signature="e#14520#14527#0" expanded="false" />
+            <element signature="e#14527#14534#0" expanded="false" />
+            <element signature="e#15481#15488#0" expanded="false" />
+            <element signature="e#15488#15495#0" expanded="false" />
+            <element signature="e#16572#16579#0" expanded="false" />
+            <element signature="e#16579#16586#0" expanded="false" />
+            <element signature="e#17559#17565#0" expanded="false" />
+            <element signature="e#17569#17575#0" expanded="false" />
+            <element signature="e#17591#17597#0" expanded="false" />
+            <element signature="e#17601#17607#0" expanded="false" />
+            <element signature="e#17608#17614#0" expanded="false" />
+            <element signature="e#17618#17624#0" expanded="false" />
+            <element signature="e#18848#18855#0" expanded="false" />
+            <element signature="e#18855#18862#0" expanded="false" />
+            <element signature="e#19983#19990#0" expanded="false" />
+            <element signature="e#19990#19997#0" expanded="false" />
+            <element signature="e#20970#20977#0" expanded="false" />
+            <element signature="e#20977#20984#0" expanded="false" />
+            <element signature="e#21969#21976#0" expanded="false" />
+            <element signature="e#21976#21983#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -786,7 +682,7 @@
     <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/tianmao_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -803,29 +699,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="52" column="32" lean-forward="false" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="32" />
-          <folding>
-            <element signature="e#16#29#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="391">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/tianmao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="258" column="32" lean-forward="true" selection-start-line="258" selection-start-column="32" selection-end-line="258" selection-end-column="32" />
-          <folding>
-            <element signature="e#40#51#0" expanded="true" />
-            <element signature="e#209#3750#0" expanded="false" />
-            <element signature="e#5178#5238#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -834,34 +715,98 @@
         <state relative-caret-position="68">
           <caret line="2" column="270" lean-forward="false" selection-start-line="2" selection-start-column="270" selection-end-line="2" selection-end-column="270" />
           <folding>
-            <element signature="e#1002#1009#0" expanded="true" />
-            <element signature="e#1009#1016#0" expanded="true" />
-            <element signature="e#2003#2010#0" expanded="true" />
-            <element signature="e#2010#2017#0" expanded="true" />
-            <element signature="e#4015#4022#0" expanded="true" />
-            <element signature="e#4022#4029#0" expanded="true" />
-            <element signature="e#5058#5065#0" expanded="true" />
-            <element signature="e#5065#5072#0" expanded="true" />
-            <element signature="e#6009#6016#0" expanded="true" />
-            <element signature="e#6016#6023#0" expanded="true" />
-            <element signature="e#6935#6942#0" expanded="true" />
-            <element signature="e#6942#6949#0" expanded="true" />
-            <element signature="e#8037#8044#0" expanded="true" />
-            <element signature="e#8044#8051#0" expanded="true" />
-            <element signature="e#9292#9299#0" expanded="true" />
-            <element signature="e#9299#9306#0" expanded="true" />
-            <element signature="e#10292#10299#0" expanded="true" />
-            <element signature="e#10299#10306#0" expanded="true" />
-            <element signature="e#13374#13381#0" expanded="true" />
-            <element signature="e#13381#13388#0" expanded="true" />
-            <element signature="e#14224#14232#0" expanded="true" />
-            <element signature="e#17200#17207#0" expanded="true" />
-            <element signature="e#17207#17214#0" expanded="true" />
-            <element signature="e#18177#18184#0" expanded="true" />
-            <element signature="e#18184#18191#0" expanded="true" />
-            <element signature="e#19232#19239#0" expanded="true" />
-            <element signature="e#19239#19246#0" expanded="true" />
+            <element signature="e#1002#1009#0" expanded="false" />
+            <element signature="e#1009#1016#0" expanded="false" />
+            <element signature="e#2003#2010#0" expanded="false" />
+            <element signature="e#2010#2017#0" expanded="false" />
+            <element signature="e#4015#4022#0" expanded="false" />
+            <element signature="e#4022#4029#0" expanded="false" />
+            <element signature="e#5058#5065#0" expanded="false" />
+            <element signature="e#5065#5072#0" expanded="false" />
+            <element signature="e#6009#6016#0" expanded="false" />
+            <element signature="e#6016#6023#0" expanded="false" />
+            <element signature="e#6935#6942#0" expanded="false" />
+            <element signature="e#6942#6949#0" expanded="false" />
+            <element signature="e#8037#8044#0" expanded="false" />
+            <element signature="e#8044#8051#0" expanded="false" />
+            <element signature="e#9292#9299#0" expanded="false" />
+            <element signature="e#9299#9306#0" expanded="false" />
+            <element signature="e#10292#10299#0" expanded="false" />
+            <element signature="e#10299#10306#0" expanded="false" />
+            <element signature="e#13374#13381#0" expanded="false" />
+            <element signature="e#13381#13388#0" expanded="false" />
+            <element signature="e#14224#14232#0" expanded="false" />
+            <element signature="e#17200#17207#0" expanded="false" />
+            <element signature="e#17207#17214#0" expanded="false" />
+            <element signature="e#18177#18184#0" expanded="false" />
+            <element signature="e#18184#18191#0" expanded="false" />
+            <element signature="e#19232#19239#0" expanded="false" />
+            <element signature="e#19239#19246#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TianMao_Z/TianMao_Z/spiders/tianmao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="258" column="32" lean-forward="false" selection-start-line="258" selection-start-column="32" selection-end-line="258" selection-end-column="32" />
+          <folding>
+            <element signature="e#40#51#0" expanded="false" />
+            <element signature="e#209#3750#0" expanded="false" />
+            <element signature="e#5178#5238#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/spider_py2/lib/python2.7/site-packages/scrapy_plus-0.11-py2.7.egg/scrapy_plus/http/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/spider_py2/lib/python2.7/site-packages/scrapy/http/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/spider_py2/lib/python2.7/site-packages/scrapy/http/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="45" lean-forward="false" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/spider_py2/lib/python2.7/site-packages/scrapy/http/response/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="93" column="36" lean-forward="false" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="36" />
+          <folding>
+            <element signature="e#202#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/spider_py2/lib/python2.7/site-packages/scrapy/http/response/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630">
+          <caret line="62" column="41" lean-forward="false" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
+          <folding>
+            <element signature="e#158#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JD/JD/spiders/jd_redis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>

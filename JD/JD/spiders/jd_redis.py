@@ -4,6 +4,7 @@
 """
 import scrapy
 
+from scrapy.http import response
 from scrapy_redis.spiders import RedisSpider
 
 from ..items import JdItem
